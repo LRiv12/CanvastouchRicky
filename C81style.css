@@ -1,0 +1,29 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://i.pinimg.com/originals/3c/80/c1/3c80c1d33cfc885a223146694943d99d.jpg");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	background-size: contain ;
+}
+
+#myCanvas{
+border:5px solid black;
+background-color: rgb(32, 127, 182);
+}
